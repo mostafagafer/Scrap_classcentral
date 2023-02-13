@@ -1,5 +1,5 @@
 # Scrap_classcentral
-this is a part of the application to coding Allstar where I scrapped the Classcentral.com using Selenium and Python
+## this is a part of the application to coding Allstar where I scrapped the Classcentral.com using Selenium and Python
 
 # I followed the following steps to perform the task as described in the job application:
 1- I followed this video https://www.youtube.com/watch?v=VSO14hgo6Gs&ab_channel=PythonWebScraping. which helped me to work with Selenium in Google Colab.
